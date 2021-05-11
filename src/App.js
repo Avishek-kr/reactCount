@@ -46,7 +46,7 @@ export default function App() {
           cursor: "pointer"
         }}
       >
-        Click Me
+        Increase
       </button>
     </div>
   );
